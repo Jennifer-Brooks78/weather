@@ -1,7 +1,7 @@
 #Forecast
 ## Today
-Cloudy with a chance of pizza.
+Cloudy and wet
 
 ## Tomorrow
 
-bright and sunny
+even wetter
